@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node server.js --port=5555"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "rps"
   ],
   "author": "@wenxihuw",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a04-wenxihuw/issues"
   },
