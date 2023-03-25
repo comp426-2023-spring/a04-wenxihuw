@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-import { rps } from '../lib/rpsls.js';
-import { rpsls } from "../lib/rpsls.js";
+import { rps } from './lib/rpsls.js';
+import { rpsls } from "./lib/rpsls.js";
 import minimist from "minimist";
 import express from "express";
 
