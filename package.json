@@ -1,0 +1,29 @@
+{
+  "name": "a04-wenxihuw",
+  "version": "1.0.0",
+  "description": "Paper-Scissor-Stone API",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a04-wenxihuw.git"
+  },
+  "keywords": [
+    "API",
+    "rps"
+  ],
+  "author": "@wenxihuw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a04-wenxihuw/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a04-wenxihuw#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
